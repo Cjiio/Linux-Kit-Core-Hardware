@@ -1,8 +1,8 @@
 <h1 align="center">Linux Kit Core</h1>
 
 <p align="center" width="100%">
-  <a href="/actions/workflows/ci.yaml">
-    <img alt="CI Badge" src="/actions/workflows/ci.yaml/badge.svg?branch=">
+  <a href="https://github.com/Cjiio/Linux-Kit-Core-Hardware/actions/workflows/ci.yaml">
+    <img alt="CI Badge" src="https://github.com/Cjiio/Linux-Kit-Core-Hardware/actions/workflows/ci.yaml/badge.svg?branch=">
   </a>
 </p>
 
