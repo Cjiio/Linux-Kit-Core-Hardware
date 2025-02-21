@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center" width="100%">
-    <img src="Images/dummy_image.png">
-</p>
-
 ***
 
 <p align="center">
